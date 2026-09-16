@@ -6,7 +6,7 @@ Calculadora web construida desde cero con HTML, CSS y JavaScript vanilla. El pro
 
 [Ver demo en vivo](https://gregcollado.github.io/calculator-js/)
 
-> Reemplaza `TU_USUARIO` por tu nombre de usuario de GitHub después de activar GitHub Pages.
+> Reemplaza `gregcollado` por tu nombre de usuario de GitHub después de activar GitHub Pages.
 
 ## Funcionalidades
 
@@ -31,7 +31,7 @@ Calculadora web construida desde cero con HTML, CSS y JavaScript vanilla. El pro
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/calculator-js.git
+git clone https://github.com/gregcollado/calculator-js.git
 ```
 
 2. Abre la carpeta del proyecto.
