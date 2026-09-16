@@ -4,7 +4,7 @@ Calculadora web construida desde cero con HTML, CSS y JavaScript vanilla. El pro
 
 ## Demo
 
-[Ver demo en vivo](https://TU_USUARIO.github.io/calculator-js/)
+[Ver demo en vivo](https://gregcollado.github.io/calculator-js/)
 
 > Reemplaza `TU_USUARIO` por tu nombre de usuario de GitHub después de activar GitHub Pages.
 
