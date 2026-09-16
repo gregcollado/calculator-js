@@ -53,6 +53,7 @@ main {
 	height: 60px;
 	border-radius: 50%;
 	margin-right: 5px;
+	color: #000;
 	font-size: 16px;
 	font-weight: 600;
 	border: 2px solid #444;
