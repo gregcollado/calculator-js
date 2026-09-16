@@ -160,6 +160,12 @@ function reiniciarEstado() {
   estado.acaboDeCalcular = false;
 }
 
+// Evitar el zoom en dispositivos móviles al hacer pinch
+document.addEventListener('touchmove', function (event) {
+  if (event.scale !== 1) { 
+    event.preventDefault(); 
+  }
+}, { passive: false });
 
 
 // Ejecucion de la función para mostrar los números en la pantalla
