@@ -71,7 +71,7 @@ function seleccionarOperador(operadorSeleccionado) {
           }
           estado.operador = operadorSeleccionado;
           estado.esperandoSegundoNumero = true;
-          pantalla.textContent = "";
+          //pantalla.textContent = ""; // Se comenta para que el primer número no desaparezca al seleccionar un operador
         }
       }
 }
@@ -130,7 +130,7 @@ function calcularOperacion(primerNumero, operador, segundoNumero) {
             return primerNumero - segundoNumero;
           case 'x':
             return primerNumero * segundoNumero;
-          case '/':
+          case '÷':
             if (segundoNumero === 0) {
               return "Indefinido";
             }
