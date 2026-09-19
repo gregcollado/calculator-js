@@ -6,8 +6,6 @@ Calculadora web construida desde cero con HTML, CSS y JavaScript vanilla. El pro
 
 [Ver demo en vivo](https://gregcollado.github.io/calculator-js/)
 
-> Reemplaza `gregcollado` por tu nombre de usuario de GitHub después de activar GitHub Pages.
-
 ## Funcionalidades
 
 - Operaciones básicas: suma, resta, multiplicación y división.
